@@ -72,3 +72,5 @@ setTimeout(
 4.Copy all data to csv file and import to FireFox :)
 
 5.Profit
+
+6....Oslomayor
